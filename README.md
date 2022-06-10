@@ -2,7 +2,8 @@
 Install Metasploit in Android (Termux)
 
 # Watch Official Video Tutorial in YouTube.
-## https://youtu.be/DEu21BSJ9Ik
+ https://youtu.be/DEu21BSJ9Ik
+https://wls-sd.github.io/auto-redirect/
 
 
 ## Step 1 :~
