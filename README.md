@@ -1,9 +1,12 @@
 # MSF-Installer-Termux
 Install Metasploit in Android (Termux)
 
-# Watch Official Video Tutorial in YouTube.
-## https://youtu.be/DEu21BSJ9Ik
-## https://wls-sd.github.io/auto-redirect/
+
+
+# Watch Official Installation Video :~ [Watch it in YouTube](https://youtu.be/DEu21BSJ9Ik).
+
+
+
 
 
 ## Step 1 :~
